@@ -1,6 +1,4 @@
 import React, { useState, useEffect } from "react";
-import ch2 from 'assets/img/ch2.png';
-import { connectHelpGeneral } from "hooks/InfoAndMeta/useSystems";
 import Logo from "components/brand/Logo";
 
 const signout = () => {
@@ -51,27 +49,7 @@ export const ErrorFallback = ({ error, showHelp, setShowHelp }) => (
                 </button>
             </div>
             <div className="w-full">
-                {connectHelpGeneral({
-                    showHelp,
-                    setShowHelp,
-                    codeLanguage: 'bash',
-                    code: `${error?.error?.stack?.split(':')[0]
-                        ? 'Type: ' +
-                        error?.error?.stack?.split(':')[0] +
-                        '\n' +
-                        'Message:' +
-                        error?.error?.stack?.split(
-                            error?.error?.stack?.split(':')[0]
-                        )[1]
-                        : error?.message || error?.reason?.stack
-                        } `,
-                    extra: 'w-full max-w-[100%] text-white',
-                    orientation: 'bottom',
-                    standardHelpMessage: '',
-                    CallOut: "What's this error?",
-                    iconColor: 'red-700',
-                    extraCallOut: '!text-center font-poppins text-primaryRed',
-                })}
+                
             </div>
         </div>
     </div>

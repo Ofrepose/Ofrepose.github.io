@@ -1,5 +1,4 @@
-import global2green from 'assets/img/marketing/global2green.svg';
-import globe from 'assets/img/marketing/globe.svg';
+
 import Footer from 'components/footer/FooterAuthDefault';
 import TerminalBlock from "components/codeBlock/TerminalBlock";
 import { Logo } from 'components/brand/Logo';
@@ -121,12 +120,7 @@ import {BugCatcher} from '@ofrepose/bughub-react';
                 <div className='w-[1400px] max-w-[1400px] py-3 px-3' >
                     <div className=' h-[calc(50vh)] flex flex-wrap items-center   '>
                         <div className='flex flex-wrap items-center content-center justify-center lg:w-1/2 h-1/2 md:w-full lg:flex md:hidden  hidden'>
-                            <img
-                                src={globe}
-                                alt="Logo"
-                                className="h-full"
-                                style={{ width: 'auto' }}
-                            />
+                            
                         </div>
                         <div className='flex flex-wrap items-start content-center justify-end lg:w-1/2 h-1/2 md:w-full'>
                             <p className='text-sm text-brand-400'>Connect</p>
@@ -180,12 +174,7 @@ import {BugCatcher} from '@ofrepose/bughub-react';
 
                         </div>
                         <div className='flex flex-wrap items-center content-center justify-center lg:w-1/2 h-1/2 md:w-full lg:flex md:hidden  hidden'>
-                            <img
-                                src={global2green}
-                                alt="Logo"
-                                className="h-full"
-                                style={{ width: 'auto' }}
-                            />
+                            
                         </div>
                     </div>
                 </div>
