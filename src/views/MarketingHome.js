@@ -13,7 +13,7 @@ const MarketingHome = () => {
             <div className='bg-lightGray w-full flex flex-wrap justify-center '>
                 <div className='w-[1300px] max-w-[1300px] py-3 px-3 2xl:px-0 px-4' >
 
-                    <div className=' h-[calc(100vh-80px)] flex flex-wrap items-center content-center justify-between'>
+                    <div className=' min-h-[calc(100vh-80px)] flex flex-wrap items-center content-center justify-between'>
                         <div className='flex flex-wrap items-start content-center lg:w-1/2 pr-4 mb-5 md:mb-10 xl:mb-0'>
                             <h2 className='w-full m-0 p-0 md:text-[40px] text-[30px] text-gray-500 font-poppins md:leading-[50px] leading-[40px]'>Hello 👋, I'm
                             </h2>
@@ -48,17 +48,14 @@ const MarketingHome = () => {
                                         </a>
                                         , and contributing to the front-end and extension team at a mid-stage
                                         <a className="font-medium text-white/80 hover:text-primaryBlue focus-visible:text-teal-300" href="https://seamless.ai/" target="_blank" rel="noreferrer noopener" aria-label="start-up (opens in a new tab)">
-                                            {' '}start-up
+                                            {' '}start-up.
                                         </a>
-                                        , a
-                                        <a className="font-medium text-white/80 hover:text-primaryBlue focus-visible:text-teal-300" href="https://www.apple.com/apple-music/" target="_blank" rel="noreferrer noopener" aria-label="huge corporation (opens in a new tab)">
-                                            huge corporation
-                                        </a>
-                                        , and a
-                                        <a className="font-medium text-white/80 hover:text-primaryBlue focus-visible:text-teal-300" href="https://upstatement.com/" target="_blank" rel="noreferrer noopener" aria-label="digital product studio (opens in a new tab)">
-                                            digital product studio
-                                        </a>.
+
                                     </p>
+                                    <p className="mb-4 text-gray-500 md:text-xl text-md">
+                                        My coding philosophy is to write beautiful, simple code. When I'm not coding, you can find me exploring the latest tech trends, tending to my garden, chasing my dogs around, or playing PVE and RTS video games.
+                                    </p>
+
                                 </section>
 
 
@@ -290,7 +287,7 @@ const MarketingHome = () => {
                                                     </a>
                                                 </h3>
                                                 <p class="mt-2 text-md leading-normal text-gray-500">
-                                                I created a secure and unified platform that lets users sign in remotely to multiple servers with ease. Featuring customizable modules for popular services like PM2, Apache, Nginx, PostgreSQL, MySQL, and more, users can effortlessly control and monitor their servers from one central hub. The intuitive interface makes it easy to manage files, configure services, and optimize server performance, providing a seamless experience for all your server management needs.
+                                                    I created a secure and unified platform that lets users sign in remotely to multiple servers with ease. Featuring customizable modules for popular services like PM2, Apache, Nginx, PostgreSQL, MySQL, and more, users can effortlessly control and monitor their servers from one central hub. The intuitive interface makes it easy to manage files, configure services, and optimize server performance, providing a seamless experience for all your server management needs.
                                                 </p>
                                             </div>
                                             <img
@@ -326,7 +323,7 @@ const MarketingHome = () => {
 
 
 
-            
+
 
 
             <div className='bg-gray-0 w-full flex flex-wrap justify-center shadow-xl items-center content-center pt-8 '>
