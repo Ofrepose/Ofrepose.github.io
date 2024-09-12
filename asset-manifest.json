@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0602ca23.css",
-    "main.js": "/static/js/main.dd738363.js",
+    "main.js": "/static/js/main.a8b771a7.js",
     "static/media/issuehubPreview.gif": "/static/media/issuehubPreview.628779716cccc173596b.gif",
     "static/media/logtasticPreview.gif": "/static/media/logtasticPreview.78bacee3871e717367cd.gif",
     "static/media/ronaldmcdonaldhouseCharities.png": "/static/media/ronaldmcdonaldhouseCharities.7b7ca92e631e79ac4edd.png",
@@ -13,10 +13,10 @@
     "static/media/leadpulser.png": "/static/media/leadpulser.f0320abb8daae2dd2cf6.png",
     "index.html": "/index.html",
     "main.0602ca23.css.map": "/static/css/main.0602ca23.css.map",
-    "main.dd738363.js.map": "/static/js/main.dd738363.js.map"
+    "main.a8b771a7.js.map": "/static/js/main.a8b771a7.js.map"
   },
   "entrypoints": [
     "static/css/main.0602ca23.css",
-    "static/js/main.dd738363.js"
+    "static/js/main.a8b771a7.js"
   ]
 }
