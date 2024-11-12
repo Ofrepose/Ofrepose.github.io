@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c497e54e.css",
-    "main.js": "/static/js/main.4705ab86.js",
+    "main.js": "/static/js/main.d3eb1899.js",
     "static/media/QiFull.gif": "/static/media/QiFull.0da7ec29da62c3b9c20f.gif",
     "static/media/issuehubPreview.gif": "/static/media/issuehubPreview.628779716cccc173596b.gif",
     "static/media/logtasticPreview.gif": "/static/media/logtasticPreview.78bacee3871e717367cd.gif",
@@ -15,10 +15,10 @@
     "static/media/prof.jpg": "/static/media/prof.a5807a83375f44de4069.jpg",
     "index.html": "/index.html",
     "main.c497e54e.css.map": "/static/css/main.c497e54e.css.map",
-    "main.4705ab86.js.map": "/static/js/main.4705ab86.js.map"
+    "main.d3eb1899.js.map": "/static/js/main.d3eb1899.js.map"
   },
   "entrypoints": [
     "static/css/main.c497e54e.css",
-    "static/js/main.4705ab86.js"
+    "static/js/main.d3eb1899.js"
   ]
 }
