@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a206d61f.css",
-    "main.js": "/static/js/main.800226ff.js",
+    "main.css": "/static/css/main.026f4e9b.css",
+    "main.js": "/static/js/main.d13a21cd.js",
     "static/media/QiFull.gif": "/static/media/QiFull.0da7ec29da62c3b9c20f.gif",
     "static/media/issuehubPreview.gif": "/static/media/issuehubPreview.628779716cccc173596b.gif",
     "static/media/logtasticPreview.gif": "/static/media/logtasticPreview.78bacee3871e717367cd.gif",
@@ -14,11 +14,11 @@
     "static/media/leadpulser2.png": "/static/media/leadpulser2.cef0e24df8a7a6386f57.png",
     "static/media/prof.jpg": "/static/media/prof.a5807a83375f44de4069.jpg",
     "index.html": "/index.html",
-    "main.a206d61f.css.map": "/static/css/main.a206d61f.css.map",
-    "main.800226ff.js.map": "/static/js/main.800226ff.js.map"
+    "main.026f4e9b.css.map": "/static/css/main.026f4e9b.css.map",
+    "main.d13a21cd.js.map": "/static/js/main.d13a21cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.a206d61f.css",
-    "static/js/main.800226ff.js"
+    "static/css/main.026f4e9b.css",
+    "static/js/main.d13a21cd.js"
   ]
 }
